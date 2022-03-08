@@ -36,3 +36,4 @@ class ListaEncadenada:
             print(aux.nombre, aux.apellido)
             aux = aux.next
 
+    
